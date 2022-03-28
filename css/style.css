@@ -58,18 +58,16 @@ margin-left: 8px;
 
 
 }
+#telefones p span {
+  color: #024591;
 
+}
 #telefones  img{
     float: left;
     margin-left: 39px;
  }
 
- #telefones p uppercase{
-     color: #024591;
-
-
-
- }
+ 
 
 
  #telefones  p{
@@ -565,8 +563,13 @@ text-align: left;
 #sala_de_imprensa a {
     font-size: 25px;
     width: 85%;
-    margin-top: -14px;
+    margin-top: -14px;3
+
 }
+#telefones p span {
+    color: #000;
+  
+  }
 }
 
 @media only screen and (max-width: 427px) {
@@ -581,6 +584,8 @@ text-align: left;
     width: 100%
    
 }
+
+
 }
 @media only screen and (max-width: 340px) {
 
